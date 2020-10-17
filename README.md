@@ -51,6 +51,7 @@ Conduct**](https://github.com/pysal/governance/blob/master/conduct/code_of_condu
 ### Organizers & PySAL Core Contributors
 * [Serge Rey](https://github.com/sjsrey)
 * [Elijah Knaap](https://github.com/knaaptime)
+* [James Gaboardi](https://github.com/jGaboardi)
 
 
 ### Sponsors
@@ -68,4 +69,3 @@ Conduct**](https://github.com/pysal/governance/blob/master/conduct/code_of_condu
 - Widen the pool of open-source contributors
 - Contribute to PySAL
 - Build momentum for continued contribution
-
