@@ -59,7 +59,7 @@ Conduct**](https://github.com/pysal/governance/blob/master/conduct/code_of_condu
 
 ### Helpers
 
-- Preeti Juruti
+- [Preeti Jurutu](https://github.com/preetijuturu)
 
 
 ---
