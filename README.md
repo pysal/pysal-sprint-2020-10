@@ -1,3 +1,10 @@
+<p float="left">
+  <img src="images/banner.png" height="100" width="400" />
+   <img  width="100" />
+</p>
+
+---
+
 # 2020-10 CGSxPySAL Sprint
 
 ## Key Links
