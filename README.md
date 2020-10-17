@@ -18,10 +18,18 @@
 
 
 ## Agenda for 2020-10-24
-
+- 9 am - 9:30 am: Welcome and Introductions
+- 9:30 - 10: am: Setting up for development 
+- 10:30 - 11:30 am: Introduction to git and github
+- 11:30 - 12:00 pm: Planning for Sunday's Sprint
 
 ## Agenda for 2020-10-25
 
+- 9 am 9:30 am: Sprint Process and Focus
+- 9:30 am - 12:00: pm Sprint
+- 12:00 - 1:00 pm: Lunch (On your own)
+- 1:00 - 4:30 pm: Sprint
+- 4:30 - 5:00 pm: Wrap Up
 
 ---
 
@@ -41,8 +49,8 @@ Conduct**](https://github.com/pysal/governance/blob/master/conduct/code_of_condu
 ## Sprint Team 
 
 ### Organizers & PySAL Core Contributors
-* Serge Rey
-* Elijah Knaap
+* [Serge Rey](https://github.com/sjsrey)
+* [Elijah Knaap](https://github.com/knaaptime)
 
 
 ### Sponsors
