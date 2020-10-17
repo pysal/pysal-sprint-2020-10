@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/8590583/89052459-bad41a00-d323-11ea-9be2-beb7d0d1b7ea.png" width="300" height="300" />
-</p>
+![Sprint banner](/images/banner.png)
+
 ---
 
 # 2020-10 CGSxPySAL Sprint
