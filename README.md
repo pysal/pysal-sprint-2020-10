@@ -2,17 +2,20 @@
 
 ---
 
-# 2020-10 CGSxPySAL Sprint
+# 2020-10 CGS x PySAL Sprint
 
 ## Key Links
 
 ### Sprint Setup
 
 ### Sprint Tutorial Day (2020-10-24, 9-12 pst)
-
+- resources 
+- pysal [gitter](https://gitter.im/pysal/pysal)
 
 ### Sprint Day (2020-10-25, 9-5 pst)
 
+- List of [curated issues to work on](https://github.com/pysal/pysal-sprint-2020-10/projects/1)
+- pysal [gitter](https://gitter.im/pysal/pysal)
 
 ### Post-sprint
 
@@ -68,4 +71,29 @@ Conduct**](https://github.com/pysal/governance/blob/master/conduct/code_of_condu
 - Widen the pool of open-source contributors
 - Contribute to PySAL
 - Build momentum for continued contribution
+
+---
+
+## Preparation
+
+### 1. GitHub Account
+- Open an account on [GitHub](https://github.com/)
+- [Install git on your development machine](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- Prior to the sprint, review some [Git resources](https://github.com/reshamas/git-intro-workshop/blob/master/extra_resources/resource_git_tutorials.md) 
+
+### 2. Join [Gitter](https://gitter.im)
+PySAL relies on Gitter for instant messaging and chat rooms for development. A
+GitHub ID can be used to sign in.
+
+- Join the [pysal Gitter community](https://gitter.im/pysal/home)
+
+
+### 3. Read the PySAL Contributor Materials
+
+- [PySAL GitHub Procedures](https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures)
+- [PySAL Code of Conduct](https://github.com/pysal/governance/blob/master/conduct/code_of_conduct.rst)
+
+### 4. Preview the Curated List of Issues
+- [Issues for the sprint](https://github.com/pysal/pysal-sprint-2020-10/projects/1)
+
 
