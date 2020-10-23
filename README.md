@@ -9,7 +9,7 @@
 ### Sprint Setup
 
 ### Sprint Tutorial Day (2020-10-24, 9-12 pst)
-- resources 
+- [preparation](https://github.com/pysal/pysal-sprint-2020-10#preparation)
 - pysal [gitter](https://gitter.im/pysal/pysal)
 
 ### Sprint Day (2020-10-25, 9-5 pst)
