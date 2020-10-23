@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <feed> PySAL feed </feed>
+        <link> pysal.org </link>
+        <description> pysal.org updates </description>
+        <language>en_us</language>
+    </channel>
+    <image>
+        <title> pysal </title>
+        <link> pysal.org </link>
+        <url> pysallogolink.png </url>
+        <width> 150 </width>
+        <height> 150 </height>
+    </image>
+    <item>
+        <title> title </title>
+        <pubDate> date </pubDate>
+        <link> link </link>
+        <description> ![CDATA[description]] </description>
+    </item>
+</rss>
+        
+
+
+chronjob
+checks every hour the directory for news
+ID new files
+    for new files: create RSS entry
