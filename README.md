@@ -6,7 +6,6 @@
 
 ## Key Links
 
-### Sprint Setup
 
 ### Sprint Tutorial Day (2020-10-24, 9-12 pst)
 - [preparation](https://github.com/pysal/pysal-sprint-2020-10#preparation)
@@ -17,8 +16,7 @@
 - List of [curated issues to work on](https://github.com/pysal/pysal-sprint-2020-10/projects/1)
 - pysal [gitter](https://gitter.im/pysal/pysal)
 
-### Post-sprint
-
+## Schedule
 
 ## Agenda for 2020-10-24
 - 9 am - 9:30 am: Welcome and Introductions
